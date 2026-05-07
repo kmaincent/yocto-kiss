@@ -1,0 +1,9 @@
+header:
+  version: 11
+
+machine: dogbonedark
+
+repos:
+  meta-kiss-dogbonedark:
+    layers:
+      meta-kiss-dogbonedark:

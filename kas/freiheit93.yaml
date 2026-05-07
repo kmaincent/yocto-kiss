@@ -1,0 +1,9 @@
+header:
+  version: 11
+
+machine: freiheit93
+
+repos:
+  meta-kiss-freiheit93:
+    layers:
+      meta-kiss-freiheit93:
