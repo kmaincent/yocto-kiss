@@ -1,10 +1,8 @@
 header:
   version: 11
 
-machine: dogbonedark
 distro: kiss
-target:
-  - kiss-image
+target: kiss-image
 
 repos:
   bitbake:
